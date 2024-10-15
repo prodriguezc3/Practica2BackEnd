@@ -1,3 +1,5 @@
+//Paula Rodriguez Cubas y Sarah Rojas
+
 const handler = async (req: Request): Promise <Response> => {
 
     type producto = {
